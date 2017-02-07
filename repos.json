@@ -1,0 +1,81 @@
+[  {  
+      "repo":"openmrs-module-rwandasphstudyreports",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-abondonedorderslegacyui",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-addresshierarchyrwanda",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-camerwa",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-dataentry",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-drugorderexport",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-mohorderentrybridge",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-orderextension",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-pmtct",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-programOver",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-quarterlyreporting",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-quicklabdataentry",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-tracdataquality",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {
+      "repo":"openmrs-module-tracnetreporting",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-tracpatienttransfer",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   },
+   {  
+      "repo":"openmrs-module-vcttrac",
+      "owner":"rwanda-rbc-emr",
+      "version": ""
+   }
+]
