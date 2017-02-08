@@ -1,8 +1,10 @@
-Github repositories latest release downloader
 ______________________________________________
+# Github repositories latest release downloader
+------------------------------
 This is a simple script that uses curl and jq (added shell tools) to download attached files from the latest github release or a provided specific version if set.
 By default it runs for the Rwanda Upgraded OpenMRS modules, to change the repos edit repos.json file maintaining its json format
 It assumes that the releases are managed on github including its binary or attached downloadable files, for each used extension this script expects to find one binary downloadable file to pull it from github
+
 
 Requirements:
 _________________
@@ -12,9 +14,11 @@ _________________
 + Add your repos and repo owners in repos.json file
 + Run downloader.sh file using bash downloader.sh
 
+
 Usage
 __________________
-bash downloader.sh .omod where .omod is the final extension point of the release binary files to be downloaded
+bash downloader.sh
+
 
 References:
 ___________________

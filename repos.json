@@ -1,81 +1,121 @@
 [  {  
       "repo":"openmrs-module-rwandasphstudyreports",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-abondonedorderslegacyui",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-addresshierarchyrwanda",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-camerwa",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-dataentry",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-drugorderexport",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-mohorderentrybridge",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
-      "repo":"openmrs-module-orderextension",
+      "repo":"openmrs-module-mohtracportal",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-pmtct",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-programOver",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-quarterlyreporting",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-quicklabdataentry",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-tracdataquality",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {
       "repo":"openmrs-module-tracnetreporting",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-tracpatienttransfer",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
    },
    {  
       "repo":"openmrs-module-vcttrac",
       "owner":"rwanda-rbc-emr",
-      "version": ""
+      "version": "",
+      "extension": ".omod"
+   },
+   {  
+      "repo":"openmrs-contrib-mohbranding",
+      "owner":"rwanda-rbc-emr",
+      "version": "",
+      "extension": ".zip"
+   },
+   {  
+      "repo":"openmrs-module-orderextension",
+      "owner":"openmrs",
+      "version": "",
+      "extension": ".omod"
+   },
+   {
+      "repo":"openmrs-module-systemmonitor",
+      "owner":"jembi",
+      "version": "1.5",
+      "extension": ".omod"
+   },
+   {
+      "repo":"openmrs-module-iqchartimport",
+      "owner":"jembi",
+      "version": "",
+      "extension": ".omod"
    }
 ]
