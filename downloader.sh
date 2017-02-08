@@ -8,6 +8,11 @@ echo ""
 echo "WARNING: Github limits the number of times its API is accessed daily for your IP, try with a different IP when that happens"
 echo ""
 
+if [ ! -d downloads ]; then
+	mkdir downloads;
+else
+	rm -r downloads;mkdir downloads;
+fi
 downloadExtension() {
 	REPO_OWNER=${1//\"}
 	REPO=${2//\"}
@@ -27,6 +32,7 @@ downloadExtension() {
 		echo "Downloading:::: $DOWNLOAD_URL ..."
 		echo ""
 		curl -O "$DOWNLOAD_URL";
+		mv *$EXTENSION downloads/
 	fi
 }
 
