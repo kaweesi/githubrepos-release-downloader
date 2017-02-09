@@ -31,7 +31,7 @@ downloadExtension() {
 		echo ""
 		echo "Downloading:::: $DOWNLOAD_URL ..."
 		echo ""
-		curl -O "$DOWNLOAD_URL";
+		curl -LOk "$DOWNLOAD_URL";
 		mv *$EXTENSION downloads/
 	fi
 }
